@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Level.unity
+    guid: 69575e6f2904c4c7dafafe28c5ec7068
+  - enabled: 1
+    path: Assets/Scenes/projectBird.unity
+    guid: d1e3a8fc1ea97774ca4b7e3156783f5c
