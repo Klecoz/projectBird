@@ -19,6 +19,7 @@ TagManager:
   - leaf
   - breakbranch
   - deathLine
+  - acorn
   layers:
   - Default
   - TransparentFX

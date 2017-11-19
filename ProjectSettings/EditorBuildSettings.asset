@@ -9,5 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Level.unity
     guid: 69575e6f2904c4c7dafafe28c5ec7068
   - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: f01964f7573e414419a683966fbe5b62
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: afbf810076c24ca469b16ea90bd2555e
+  - enabled: 1
     path: Assets/Scenes/projectBird.unity
     guid: d1e3a8fc1ea97774ca4b7e3156783f5c
